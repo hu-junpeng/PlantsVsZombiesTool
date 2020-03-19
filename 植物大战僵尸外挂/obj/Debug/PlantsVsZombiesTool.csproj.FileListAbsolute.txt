@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\植物大战僵尸外挂\植物大战僵尸外挂\obj\Debug\PlantsVsZombiesTool.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\植物大战僵尸外挂\植物大战僵尸外挂\obj\Debug\PlantsVsZombiesTool.Form1.resources
+C:\Users\Administrator\source\repos\植物大战僵尸外挂\植物大战僵尸外挂\obj\Debug\植物大战僵尸外挂.Properties.Resources.resources
+C:\Users\Administrator\source\repos\植物大战僵尸外挂\植物大战僵尸外挂\obj\Debug\PlantsVsZombiesTool.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\植物大战僵尸外挂\植物大战僵尸外挂\bin\Debug\植物大战僵尸外挂.exe.config
+C:\Users\Administrator\source\repos\植物大战僵尸外挂\植物大战僵尸外挂\bin\Debug\植物大战僵尸外挂.exe
+C:\Users\Administrator\source\repos\植物大战僵尸外挂\植物大战僵尸外挂\bin\Debug\植物大战僵尸外挂.pdb
+C:\Users\Administrator\source\repos\植物大战僵尸外挂\植物大战僵尸外挂\obj\Debug\植物大战僵尸外挂.exe
+C:\Users\Administrator\source\repos\植物大战僵尸外挂\植物大战僵尸外挂\obj\Debug\植物大战僵尸外挂.pdb

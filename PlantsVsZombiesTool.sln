@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantsVsZombiesTool", "植物大战僵尸外挂\PlantsVsZombiesTool.csproj", "{7EDFDE5F-9028-4107-9779-579923CB4DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EDFDE5F-9028-4107-9779-579923CB4DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDFDE5F-9028-4107-9779-579923CB4DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDFDE5F-9028-4107-9779-579923CB4DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDFDE5F-9028-4107-9779-579923CB4DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A20B4CBC-24A3-4E9B-B943-F06E81A058D6}
+	EndGlobalSection
+EndGlobal
